@@ -11,4 +11,4 @@
 - A* Algorithm
 
 
-Live Demo: <a href = "https://Roshan-Verma.github.io/Path-Visualizer/"> Click Here </a>
+Live Demo: <a href = "https://ppsp15.github.io/PATH-FINDING-VISUALIZER/"> Click Here </a>
